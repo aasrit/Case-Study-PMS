@@ -1,0 +1,41 @@
+   PHARMACY MANAGEMENT SYSTEM 
+
+Microservices:
+   =>User Management
+   =>Order Management
+   =>Supplier-inventory Management
+   =>Payment Management
+1)User Management
+   Users:Doctor,Admin
+     A user can 
+      *Register
+      *Login-with account 
+      *can view their information
+      *Update their information
+      *Activate/delete account
+
+2)Order Management
+   Admin user:
+     Admin can 
+       *Add drugs,
+       *Delete/Edit drugs,
+       *Edit/Delete drugs,
+       *Update drugs,
+       *View All drugs,
+       *View orders 
+       *Add suppliers
+       *Download & print report
+       *View sales
+       *Add orders to pickedup section
+  Doctor user
+       *View Drugs
+       *Add to cart
+       *Place order
+ 3)Supplier-inventory Management
+       *sales of drugs
+       *Remaining drugs
+        
+ 4)Payment Management
+       *Doctor can make a payment and he can view the payment details
+       *Admin can view the payment details
+       
